@@ -1,6 +1,17 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
+
+.App {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: rgba(41, 5, 5, 0.4);
+  color: #fff;
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -16,7 +27,7 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
+  display: block;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -35,4 +46,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face{
+  font-family:stardewnorm;
+  src: url("assets/stardewfont.ttf");
+}
+
+body{
+  font-family: stardewnorm;
+
+}
+
+p{
+  font-size: 2rem;
 }
