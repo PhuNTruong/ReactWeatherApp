@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactWeatherApp/static/css/main.90877bfe.css",
+    "main.js": "/ReactWeatherApp/static/js/main.d38f3fbe.js",
+    "static/js/787.61a35f83.chunk.js": "/ReactWeatherApp/static/js/787.61a35f83.chunk.js",
+    "static/media/farm.webp": "/ReactWeatherApp/static/media/farm.ff7b67c082eba1cbfa77.webp",
+    "static/media/chicken.png": "/ReactWeatherApp/static/media/chicken.321331e536f07523b2fd.png",
+    "static/media/stardewfont.ttf": "/ReactWeatherApp/static/media/stardewfont.94d4418a519004763596.ttf",
+    "index.html": "/ReactWeatherApp/index.html",
+    "main.90877bfe.css.map": "/ReactWeatherApp/static/css/main.90877bfe.css.map",
+    "main.d38f3fbe.js.map": "/ReactWeatherApp/static/js/main.d38f3fbe.js.map",
+    "787.61a35f83.chunk.js.map": "/ReactWeatherApp/static/js/787.61a35f83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90877bfe.css",
+    "static/js/main.d38f3fbe.js"
+  ]
+}
